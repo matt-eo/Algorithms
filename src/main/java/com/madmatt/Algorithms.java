@@ -1,7 +1,7 @@
 package com.madmatt;
 
 /**
- * Implementation of classic algorithms
+ * Implementation of classic algorithms :)
  */
 public class Algorithms {
 
